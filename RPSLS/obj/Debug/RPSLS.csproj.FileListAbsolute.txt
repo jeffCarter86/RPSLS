@@ -1,0 +1,5 @@
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\RPSLS\RPSLS\obj\Debug\RPSLS.csprojResolveAssemblyReference.cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
